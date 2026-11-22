@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="WmTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">@color/wm_silver</item>
+        <item name="android:navigationBarColor">@color/wm_darkblue</item>
+        <item name="android:statusBarColor">@color/wm_darkblue</item>
+    </style>
+</resources>

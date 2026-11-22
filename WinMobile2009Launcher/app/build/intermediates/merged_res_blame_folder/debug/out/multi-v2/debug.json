@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.wm.launcher.app-merged_res-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Projects\\WinMobile2009Launcher\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "376",
+                        "endColumns": "51",
+                        "endOffsets": "423"
+                    }
+                },
+                {
+                    "source": "C:\\Projects\\WinMobile2009Launcher\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "356"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "428",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "729"
+                    }
+                },
+                {
+                    "source": "C:\\Projects\\WinMobile2009Launcher\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "3,4,5,7,8,6,2",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,145,189,283,327,237,55",
+                        "endColumns": "44,43,47,43,48,45,44",
+                        "endOffsets": "140,184,232,322,371,278,95"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,144,192,236,285,331",
+                        "endColumns": "44,43,47,43,48,45,44",
+                        "endOffsets": "95,139,187,231,280,326,371"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+color wm_black
+color wm_blue
+color wm_darkblue
+color wm_gray
+color wm_lightgray
+color wm_silver
+color wm_white
+drawable ic_launcher_foreground
+mipmap ic_launcher
+string app_name
+style WmTheme

@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.wm.launcher"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <application
+11-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:4:5-24:19
+12        android:allowBackup="false"
+12-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:8:9-36
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:6:9-43
+16        android:label="@string/app_name"
+16-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:5:9-41
+17        android:supportsRtl="true"
+17-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:9:9-35
+18        android:theme="@style/WmTheme" >
+18-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:7:9-39
+19        <activity
+19-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:11:9-23:20
+20            android:name="com.wm.launcher.HomeActivity"
+20-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:12:13-41
+21            android:exported="true"
+21-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:13:13-36
+22            android:launchMode="singleTop"
+22-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:14:13-43
+23            android:stateNotNeeded="true"
+23-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:15:13-42
+24            android:windowSoftInputMode="adjustPan" >
+24-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:16:13-52
+25            <intent-filter>
+25-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:17:13-22:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:18:17-69
+26-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.HOME" />
+28-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:19:17-73
+28-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:19:27-70
+29                <category android:name="android.intent.category.DEFAULT" />
+29-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:20:17-76
+29-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:20:27-73
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:21:17-77
+30-->C:\Projects\WinMobile2009Launcher\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>

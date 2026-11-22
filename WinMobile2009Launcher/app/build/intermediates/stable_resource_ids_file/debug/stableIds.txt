@@ -1,0 +1,11 @@
+com.wm.launcher:style/WmTheme = 0x7f050000
+com.wm.launcher:string/app_name = 0x7f040000
+com.wm.launcher:mipmap/ic_launcher = 0x7f030000
+com.wm.launcher:color/wm_silver = 0x7f010005
+com.wm.launcher:color/wm_gray = 0x7f010003
+com.wm.launcher:color/wm_lightgray = 0x7f010004
+com.wm.launcher:drawable/ic_launcher_foreground = 0x7f020000
+com.wm.launcher:color/wm_white = 0x7f010006
+com.wm.launcher:color/wm_blue = 0x7f010001
+com.wm.launcher:color/wm_darkblue = 0x7f010002
+com.wm.launcher:color/wm_black = 0x7f010000
